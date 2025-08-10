@@ -24,7 +24,7 @@ I love diving deep into security challenges and breaking (and fixing) things alo
 ## 🏆 My Stats
 
 **TryHackMe**  
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Uxpg.png)
+![TryhackME Rank]<img src="https://tryhackme-badges.s3.amazonaws.com/Uxpg.png" alt="Your Image Badge" />
 
 **HackTheBox**  
 ![HackTheBox Rank](https://www.hackthebox.com/badge/image/1370713)
